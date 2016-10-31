@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,7 +21,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-=======
-# hobbyapp
->>>>>>> 886bd690317c18420da54ad9db7aac230e9d3238
